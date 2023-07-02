@@ -9,6 +9,7 @@ import time
 
 #Wait for the Orangepi/Raspberrypi to correct time
 #time.sleep(300)
+time.sleep(300)
 
 #Get the current date
 totoo = True
